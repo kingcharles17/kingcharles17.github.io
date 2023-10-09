@@ -60,4 +60,20 @@
    h2, h3 {
        margin: 0px;
    }
-   
+   o li {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+#portfolio li:hover {
+    background: #eee;
+}
+
+
+#portfolio a {
+    text-decoration: none;
+    color: #454545;
+}
