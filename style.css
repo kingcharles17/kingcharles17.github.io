@@ -1,5 +1,6 @@
   body {
-       background: rgb(125, 198, 205);
+    background-image: url('https://th.bing.com/th/id/R.38eab784494e2f5bec8f1b13dd682039?rik=4iTKOUItqjAGYQ&riu=http%3a%2f%2fwww.wwe.com%2ff%2fstyles%2fog_image%2fpublic%2f2016%2f06%2f20160527_rko_1920x1080--b310ceb3fd2535fc28f260dec912d636.jpg&ehk=BDT7tZgC2CLE1taIkEQJnnN4%2fgTU4bxJU98XkzVDmWA%3d&risl=&pid=ImgRaw&r=0');
+       background: rgb(50, 13, 136);
        color: rgb(45, 45, 45);
        padding: 10px;
        font-family: arial;
@@ -37,7 +38,7 @@
 
    /* main container area beneath menu */
    main {
-       background: rgb(245, 238, 219);
+       background: rgb(228, 39, 6);
        display: flex;
    }
    .sidebar {
@@ -54,14 +55,14 @@
 
    /* portfolio styles */
    #interests {
-       border: 4px silver ridge;
+       border: 4px rgb(185, 19, 19) ridge;
        padding: 8px;
    }
    h2, h3 {
        margin: 0px;
    }
    o li {
-    background: #fff;
+    background: #ca2424;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -69,11 +70,11 @@
 
 
 #portfolio li:hover {
-    background: #eee;
+    background: #240f0f;
 }
 
 
 #portfolio a {
     text-decoration: none;
-    color: #454545;
+    color: #e4e6dd;
 }
